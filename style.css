@@ -93,8 +93,8 @@ h3 {
 }
 
 .hero {
-    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), 
-                url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600"><rect fill="%23228B22" width="1200" height="600"/><path fill="%234682B4" d="M0 400 Q300 350 600 400 T1200 400 V600 H0Z"/><circle fill="%23CD853F" cx="200" cy="200" r="40"/><circle fill="%23CD853F" cx="500" cy="150" r="35"/><circle fill="%23CD853F" cx="800" cy="180" r="45"/></svg>');
+    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.4)), 
+                url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600"><rect fill="%23D2691E" width="1200" height="600"/><path fill="%238B4513" d="M0 400 Q300 350 600 400 T1200 400 V600 H0Z"/><circle fill="%23F4A460" cx="200" cy="200" r="40"/><circle fill="%23F4A460" cx="500" cy="150" r="35"/><circle fill="%23F4A460" cx="800" cy="180" r="45"/><ellipse fill="%23DEB887" cx="350" cy="250" rx="60" ry="40" opacity="0.7"/><ellipse fill="%23DEB887" cx="900" cy="220" rx="50" ry="35" opacity="0.7"/></svg>');
     background-size: cover;
     background-position: center;
     color: white;
